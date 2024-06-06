@@ -22,7 +22,7 @@
 ## Ferramentas
 
 
-![My Skills](https://skillicons.dev/icons?i=vscode,linux,obsidian,bash)
+![My Skills](https://skillicons.dev/icons?i=vscode,linux,obsidian,figma,bash)
 
 ## Linguagens 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)
