@@ -22,13 +22,13 @@
 ## Ferramentas
 
 
-![My Skills](https://skillicons.dev/icons?i=vscode,linux,obsidian,figma,bash)
+![My Skills](https://skillicons.dev/icons?i=vscode,linux,obsidian,figma,bash,raspberrypi)
 
 ## Linguagens 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)
 
 ## Estudando
-![My Skills](https://skillicons.dev/icons?i=lua,java,py,ruby,react,raspberrypi)
+![My Skills](https://skillicons.dev/icons?i=lua,java,py,ruby,react)
 
 </div>
 
