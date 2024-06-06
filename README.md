@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBorello&theme=shadow_blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBorello&theme=catppuccin_latte)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBorello&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBorello&theme=nord_bright)
 
