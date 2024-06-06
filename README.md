@@ -27,14 +27,14 @@
 ## Linguagens 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)
 
-### Estudando
-
+## Estudando
 ![My Skills](https://skillicons.dev/icons?i=lua,java,py,ruby,react,raspberrypi)
 
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Contador de Visitas</b></p>  
+  
+### Contador de visitas
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{VBorello}/count.svg" /></p> 
 <br>
 </div>
