@@ -28,7 +28,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)
 
 ## Estudando
-![My Skills](https://skillicons.dev/icons?i=lua,java,py,ruby,react)
+![My Skills](https://skillicons.dev/icons?i=java,py,react)
 
 </div>
 
