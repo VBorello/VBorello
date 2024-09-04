@@ -35,9 +35,4 @@
 
 <div align="center">
   
-### Contador de visitas
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VBorello}/count.svg" /></p> 
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=132D8F&height=120&section=footer"/>
