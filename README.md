@@ -18,7 +18,6 @@
 
 </div>
 
-<div align="center">
 
 ## Ferramentas
 
@@ -31,7 +30,6 @@
 ## Estudando
 ![My Skills](https://skillicons.dev/icons?i=java,py,react)
 
-</div>
 
 <div align="center">
   
