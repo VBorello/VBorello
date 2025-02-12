@@ -22,13 +22,13 @@
 ## Ferramentas
 
 <a href = ""> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" target="_blank"></a> 
-![My Skills](https://skillicons.dev/icons?i=vscode,linux,obsidian,figma,bash,raspberrypi)
+![My Skills](https://skillicons.dev/icons?i=vscode,linux,figma,bash,git,obsidian)
 
 ## Linguagens 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java)
 
 ## Estudando
-![My Skills](https://skillicons.dev/icons?i=java,py,react)
+![My Skills](https://skillicons.dev/icons?i=react,next,ts)
 
 
 <div align="center">
