@@ -9,23 +9,18 @@
 <a href="https://www.instagram.com/marcos_vicenzo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=F8F8F2"></a>
 </div>
 
-<div align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBorello&theme=catppuccin_latte)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBorello&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VBorello&theme=nord_bright)
 
 
-</div>
-
 
 ## Ferramentas
 
-<a href = ""> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" target="_blank"></a> 
-![My Skills](https://skillicons.dev/icons?i=vscode,linux,figma,bash,git,obsidian)
+![My Skills](https://skillicons.dev/icons?i=vscode,linux,figma,bash,git,obsidian,npm,nodejs,tailwind)
 
 ## Linguagens 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,)
 
 ## Estudando
 ![My Skills](https://skillicons.dev/icons?i=react,next,ts)
